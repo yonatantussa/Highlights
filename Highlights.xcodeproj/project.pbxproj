@@ -96,8 +96,8 @@
 		198116DD2C72C4C8003087CE = {
 			isa = PBXGroup;
 			children = (
-				198116E82C72C4C8003087CE /* Highlights */,
-				19DB03E32C85979D0085C028 /* Highlights Watch App */,
+				198116E82C72C4C8003087CE /* Highlights iOS */,
+				19DB03E32C85979D0085C028 /* Highlights watchOS */,
 				198116E72C72C4C8003087CE /* Products */,
 				19DB03FD2C86691A0085C028 /* Frameworks */,
 			);
@@ -112,7 +112,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		198116E82C72C4C8003087CE /* Highlights */ = {
+		198116E82C72C4C8003087CE /* Highlights iOS */ = {
 			isa = PBXGroup;
 			children = (
 				198116E92C72C4C8003087CE /* AppDelegate.swift */,
@@ -128,10 +128,10 @@
 				197468F12C72EFBE00DCA450 /* Highlight.swift */,
 				19DB03F82C85B6500085C028 /* WatchConnector.swift */,
 			);
-			path = Highlights;
+			path = "Highlights iOS";
 			sourceTree = "<group>";
 		};
-		19DB03E32C85979D0085C028 /* Highlights Watch App */ = {
+		19DB03E32C85979D0085C028 /* Highlights watchOS */ = {
 			isa = PBXGroup;
 			children = (
 				19DB03E42C85979D0085C028 /* HighlightsWatchApp.swift */,
@@ -140,7 +140,7 @@
 				19DB03EA2C85979F0085C028 /* Preview Content */,
 				19DB03FA2C85B7950085C028 /* WatchToiOSConnector.swift */,
 			);
-			path = "Highlights Watch App";
+			path = "Highlights watchOS";
 			sourceTree = "<group>";
 		};
 		19DB03EA2C85979F0085C028 /* Preview Content */ = {
@@ -442,7 +442,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 2723AM728S;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = Highlights/Info.plist;
+				INFOPLIST_FILE = "Highlights iOS/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -471,7 +471,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 2723AM728S;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = Highlights/Info.plist;
+				INFOPLIST_FILE = "Highlights iOS/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -497,7 +497,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"Highlights Watch App/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Highlights watchOS/Preview Content\"";
 				DEVELOPMENT_TEAM = 2723AM728S;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -527,7 +527,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"Highlights Watch App/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Highlights watchOS/Preview Content\"";
 				DEVELOPMENT_TEAM = 2723AM728S;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;

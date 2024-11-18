@@ -4,7 +4,7 @@
 ## iPhone App
 Icon             |  App UI
 :-------------------------:|:-------------------------:
-![Screenshot 2024-11-17 at 10 03 57 PM](https://github.com/user-attachments/assets/f41d4504-cca3-4021-8699-cc9f0539bf21)  |  ![IMG_4654](https://github.com/user-attachments/assets/678be536-1f60-46d9-95c9-05f812daf294)
+![IMG_4655](https://github.com/user-attachments/assets/79ac2f39-c0a8-4451-942e-e05b9400ef79)  |  ![IMG_4654](https://github.com/user-attachments/assets/678be536-1f60-46d9-95c9-05f812daf294)
 
 
 ## Watch App

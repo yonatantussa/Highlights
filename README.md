@@ -4,8 +4,7 @@
 ## iPhone App
 ‎              |  ‎ 
 :-------------------------:|:-------------------------:
-![Screenshot 2024-11-17 at 10 41 11 PM](https://github.com/user-attachments/assets/342dd25a-1fc1-456d-93bb-540685548114)  |  ![Screenshot 2024-11-17 at 10 41 15 PM](https://github.com/user-attachments/assets/c598e04b-4ad0-4c82-82f6-dc256207401d)
-
+![Screenshot 2024-11-17 at 11 05 31 PM](https://github.com/user-attachments/assets/2384c19d-5bb4-4aaf-bf71-10fb84f294f2)  |  ![Screenshot 2024-11-17 at 11 05 35 PM](https://github.com/user-attachments/assets/3c63b455-7243-456c-aaa5-1b5d893b67ed)
 
 
 ## Watch App
